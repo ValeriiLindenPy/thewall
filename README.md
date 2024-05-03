@@ -47,10 +47,11 @@ The project is structured into two main packages:
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your_username/your_repository.git](https://github.com/ValeriiLindenPy/thewall.git`
+1. Clone the repository: `git clone https://github.com/ValeriiLindenPy/thewall.git`
 2. Navigate to the project directory: `cd thewall`
 3. Build the project using Maven: `mvn clean install`
 4. Run the project: `mvn spring-boot:run`
 5. Access the API endpoints using a tool like Postman or through a web browser.
+
 
 
