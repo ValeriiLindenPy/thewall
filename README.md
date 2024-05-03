@@ -53,11 +53,4 @@ To get started with the project, follow these steps:
 4. Run the project: `mvn spring-boot:run`
 5. Access the API endpoints using a tool like Postman or through a web browser.
 
-## Contributors
 
-- [Your Name](https://github.com/your_username)
-- [Contributor Name](https://github.com/contributor_username)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
